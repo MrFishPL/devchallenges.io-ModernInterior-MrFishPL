@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Modern Interior - Responsive Web Developer challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://mrfishpl.github.io/devchallenges.io-ModernInterior-MrFishPL/">
       Demo
     </a>
     <span> | </span>
@@ -36,22 +36,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/MrFishPL/devchallenges.io-ModernInterior-MrFishPL/master/img/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo?<br>
+  [here](https://mrfishpl.github.io/devchallenges.io-ModernInterior-MrFishPL/)
+- What was your experience?<br>
+  Due to the unusual arrangement of one element, I spent a lot oh hours doing this challenge and I am very tired now o_o But I really like the design and it was a plaesure to code it.
+- What have you learned/improved?<br>
+  I've improved my doing responsive website skills and positioning skills. I've leant some small usefull things such as make text bolder without resizing it. 
+- Your wisdom? :)<br>
+  Dear children, think before you start coding this challenge
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://html5.org/)
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Features
 
@@ -63,12 +66,14 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [developer.mozilla.org](https://developer.mozilla.org)
+- [CSS Tricks](https://css-tricks.com)
+- [Stackoverflow](https://stackoverflow.com)
+- [W3 Schools](https://www.w3schools.com)
+- [Pasja informatyki](https://forum.pasja-informatyki.p)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Facebook: [Michał Karp](https://www.facebook.com/karpik.junior)
+- Github: [MrFishPL](https://github.com/MrFishPL)
+- Discord: MrFishPL#3965
