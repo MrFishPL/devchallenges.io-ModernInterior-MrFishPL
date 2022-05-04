@@ -32,7 +32,7 @@
           <li><a href="https://www.youtube.com/watch?v=dMXJHw2z8s4">Contact</a></li>
         </ul>
         <div class="mobile">
-          <div class="hamburger" onclick="showMenu();">&#9776;</div>
+          <div class="hamburger" onclick="showMenu();"><i class="icon-menu"></i></div>
         </div>
       </nav>
     </header>
@@ -63,6 +63,8 @@
 
     <footer>created by <a href="https://github.com/MrFishPL">MrFishPL</a> - devChallenges.io</footer>
 
+    <!-- Naprawić hamburgera!!! -->
+
     <script type="text/javascript">
       const showMenu = () => {
         const menu = document.querySelector(".mobile-ul");
@@ -70,7 +72,7 @@
 
         hamburger.classList.toggle("shown");
         menu.classList.toggle("hidden");
-        hamburger.innerHTML = hamburger.innerHTML === '\u2630' ? "&#10005;" : "\u2630";
+        hamburger.innerHTML = hamburger.innerHTML === '<i class="icon-menu"></i>' ? '<i class="icon-cancel"></i>' : '<i class="icon-menu"></i>';
       };
     </script>
   </body>
