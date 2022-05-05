@@ -70,7 +70,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [CSS Tricks](https://css-tricks.com)
 - [Stackoverflow](https://stackoverflow.com)
 - [W3 Schools](https://www.w3schools.com)
-- [Pasja informatyki](https://forum.pasja-informatyki.p)
+- [Pasja informatyki](https://forum.pasja-informatyki.pl)
 
 ## Contact
 
